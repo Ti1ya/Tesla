@@ -1,0 +1,57 @@
+.header {
+    background-image: url(../img/model-s.jpg);
+    padding-top: 18px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+  }
+  
+  .nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  
+  .header__center--nav {
+   display: flex;
+  }
+  
+  .header__center--nav li {
+    font-size: 14px;
+    font-weight: 500;
+    padding-right: 30px;
+  }
+  
+  .header__right--nav {
+   display: flex;
+  }
+  
+  .header__right--nav li {
+    font-size: 14px;
+    font-weight: 500;
+    padding-right: 30px;
+  }
+  
+  .sub__title {
+    text-align: center;
+  }
+  
+  .sub__title h2 {
+    font-size: 40px;
+    color: #3c3f44;
+    margin-top: 30px;
+    font-weight: 300;
+  }
+
+
+  .sub__title p span {
+   border-bottom: 1px solid #3c3f44;
+  }
+
+  .header__footer--btn {
+      display: flex;
+  }
+  
+  
